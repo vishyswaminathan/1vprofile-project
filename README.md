@@ -8,9 +8,9 @@ For this project I used Terraform to launch a kubernetes cluster on AWS EKS as w
 Created a .tf file to launch the VPC, defined all the VPC components in the .tf file.
 Created a .tf file for the EKS cluster.
 
-Tools: 
-------
-S3 bucket on AWS
+AWS Services: 
+------------
+S3 bucket
 AWS EKS
 Kubernetes
 VPC
