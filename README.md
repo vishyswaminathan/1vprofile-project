@@ -1,8 +1,6 @@
 TERRAFORM for AWS EKS
 =================
 
-
-
 Description: 
 -------------
 
